@@ -14,5 +14,3 @@ Smartphone Android : Exécution de l'application.
 Connecteur USB : Connection entre l'ordinateur et le smartphone.
 ESP32
 Module bluetooth
-
-https://github.com/Zainebridene00/E-keys-Smart-Vehicle-Rental-/blob/6984452a71f652720f72d384355bdd1d536ff204/add_car.jpg
